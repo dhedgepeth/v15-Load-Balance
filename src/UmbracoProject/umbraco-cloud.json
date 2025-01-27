@@ -7,12 +7,6 @@
       "Url": "https://www.s1.umbraco.io/project/v15-load-balancing",
       "Workspaces": [
         {
-          "Id": "8bdfac78-8f95-49da-83a5-5ca1719f17ce",
-          "Name": "Development",
-          "Type": "dev",
-          "Url": "https://dev-v15-load-balancing.useast01.umbraco.io"
-        },
-        {
           "Id": "e1c6adf4-ecb7-4d02-8a4c-e250ca1fbf86",
           "Name": "Live",
           "Type": "live",
