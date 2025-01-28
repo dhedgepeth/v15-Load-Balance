@@ -2,6 +2,8 @@
 @inherits Umbraco.Cms.Web.Common.Views.UmbracoViewPage
 @{
 	Layout = null;
+	var region = Environment.GetEnvironmentVariable("_DEPLOY_REGION");
 }
 
 <h1>Hello World</h1>
+<h1>Subscriber Region: @region</h1>
